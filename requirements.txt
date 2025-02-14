@@ -1,0 +1,7 @@
+# Standard libraries (versions depend on the Python version)
+# json
+# os
+
+# External libraries
+tkinter==0.1.0  # Placeholder for tkinter, versioning depends on OS setup
+tkcalendar==1.6.1
